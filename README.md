@@ -21,7 +21,8 @@ It includes steps to configure the bucket, enable static website hosting, and ma
 - Understanding bucket policies is crucial for managing public access.  
 - CloudFront can later be used for faster global delivery.
 
----
+
+
 
  *Created by:* Eyamike Audrey  
  *Date:* October 2025
